@@ -1,1 +1,3 @@
-멀티 테넌트
+## Heroku App Sample ##
+Hello World!
+Hello World!
